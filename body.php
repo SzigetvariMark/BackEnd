@@ -1,3 +1,3 @@
 <body>
-    <h2>Regisztáció:</h2>
+    <h2></h2>
 </body>
