@@ -1,4 +1,4 @@
 <body>
-    <a href="foter.php"></a>
-    <a href="registration.php"></a>
+    <a href="foter.php">footer</a>
+    <a href="registration.php">register</a>
 </body>
